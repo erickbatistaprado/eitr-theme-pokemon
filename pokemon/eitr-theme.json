@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "pokemon",
+  "name": "Pokemon",
+  "description": "Pikachu yellow on night indigo with Pokemon art",
+  "version": "1.0.0",
+  "light": false
+}
